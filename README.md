@@ -11,18 +11,15 @@ This project implements a Single Layer Perceptron (SLP) for binary classificatio
 
 ---
 
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib scikit-learn openpyxl
-Output
+
+##Output
 Accuracy Chart: Training vs Validation accuracy across epochs
 
 Loss Chart: Training vs Validation log loss across epochs
 
 Charts can be saved as .png images and inserted into the PowerPoint slides
 
-Assignment Requirements
+##Assignment Requirements
 Page 1: Title, name, student number
 
 Page 2: Accuracy chart (spreadsheet)
